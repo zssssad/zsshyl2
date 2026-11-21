@@ -1,1 +1,0 @@
-import{r as e,_ as r}from"./rsvp-config-OHxCwn4M.js";e.enabled?r(()=>import("./admin-enabled-D9bZF-VR.js"),[]):(document.querySelector("#rsvp-disabled").hidden=!1,document.querySelector("#admin-app").hidden=!0);
